@@ -1,0 +1,98 @@
+,product.id,model,description,price
+0,1,Supersix Evo Black Inc.,Road - Elite Road - Carbon,12790
+1,2,Supersix Evo Hi-Mod Team,Road - Elite Road - Carbon,10660
+2,3,Supersix Evo Hi-Mod Dura Ace 1,Road - Elite Road - Carbon,7990
+3,4,Supersix Evo Hi-Mod Dura Ace 2,Road - Elite Road - Carbon,5330
+4,5,Supersix Evo Hi-Mod Utegra,Road - Elite Road - Carbon,4260
+5,6,Supersix Evo Red,Road - Elite Road - Carbon,3940
+6,7,Supersix Evo Ultegra 3,Road - Elite Road - Carbon,3200
+7,8,Supersix Evo Ultegra 4,Road - Elite Road - Carbon,2660
+8,9,Supersix Evo 105,Road - Elite Road - Carbon,2240
+9,10,Supersix Evo Tiagra,Road - Elite Road - Carbon,1840
+10,11,CAAD12 Black Inc,Road - Elite Road - Aluminum,5860
+11,12,CAAD12 Disc Dura Ace,Road - Elite Road - Aluminum,4260
+12,13,CAAD12 Red,Road - Elite Road - Aluminum,3200
+13,14,CAAD Disc Ultegra,Road - Elite Road - Aluminum,2660
+14,15,CAAD12 Ultegra,Road - Elite Road - Aluminum,2240
+15,16,CAAD12 Disc 105,Road - Elite Road - Aluminum,1950
+16,17,CAAD12 105,Road - Elite Road - Aluminum,1680
+17,18,CAAD8 105,Road - Elite Road - Aluminum,1410
+18,19,CAAD8 Tiagra,Road - Elite Road - Aluminum,1250
+19,20,CAAD8 Sora,Road - Elite Road - Aluminum,1030
+20,21,CAAD8 Claris,Road - Elite Road - Aluminum,815
+21,22,Synapse Hi-Mod Disc Black Inc.,Road - Endurance Road - Carbon,9590
+22,23,Synapse Hi-Mod Disc Red,Road - Endurance Road - Carbon,7460
+23,24,Synapse Hi-Mod Dura Ace,Road - Endurance Road - Carbon,5860
+24,25,Synapse Hi-Mod Disc Ultegra,Road - Endurance Road - Carbon,5330
+25,26,Synapse Carbon Disc Ultegra D12,Road - Endurance Road - Carbon,4800
+26,27,Synapse Carbon Disc Ultegra,Road - Endurance Road - Carbon,3730
+27,28,Synapse Carbon Ultegra 3,Road - Endurance Road - Carbon,3200
+28,29,Synapse Carbon Ultegra 4,Road - Endurance Road - Carbon,2660
+29,30,Synapse Carbon Disc 105,Road - Endurance Road - Carbon,2660
+30,31,Synapse Carbon 105,Road - Endurance Road - Carbon,2240
+31,32,Syapse Carbon Tiagra,Road - Endurance Road - Carbon,1840
+32,33,Synapse Disc Adventure,Road - Endurance Road - Aluminum,2130
+33,34,Synapse Disc 105,Road - Endurance Road - Aluminum,1570
+34,35,Synapse Disc Tiagra,Road - Endurance Road - Aluminum,1250
+35,36,Synapse Sora,Road - Endurance Road - Aluminum,1030
+36,37,Synapse Claris,Road - Endurance Road - Aluminum,870
+37,38,Slice Hi-Mod Black Inc.,Road - Triathalon - Carbon,7000
+38,39,Slice Hi-Mod Dura Ace D12,Road - Triathalon - Carbon,4500
+39,40,Slice Ultegra D12,Road - Triathalon - Carbon,3200
+40,41,Slice Ultegra,Road - Triathalon - Carbon,2700
+41,42,Slice 105,Road - Triathalon - Carbon,1950
+42,43,SuperX Hi-Mod CX1,Road - Cyclocross - Carbon,3500
+43,44,SuperX Ultegra,Road - Cyclocross - Carbon,2450
+44,45,SuperX 105,Road - Cyclocross - Carbon,1960
+45,46,SuperX Rival CX1,Road - Cyclocross - Carbon,1750
+46,47,Jekyll Carbon 1,Mountain - Over Mountain - Carbon,7990
+47,48,Jekyll Carbon 2,Mountain - Over Mountain - Carbon,6070
+48,49,Jekyll Carbon 3,Mountain - Over Mountain - Carbon,3840
+49,50,Jekyll Carbon 4,Mountain - Over Mountain - Carbon,3200
+50,51,Trigger Carbon 1,Mountain - Over Mountain - Carbon,8200
+51,52,Trigger Carbon 2,Mountain - Over Mountain - Carbon,5970
+52,53,Trigger Carbon 3,Mountain - Over Mountain - Carbon,3730
+53,54,Trigger Carbon 4,Mountain - Over Mountain - Carbon,3200
+54,55,Scalpel-Si Black Inc.,Mountain - Cross Country Race - Carbon,12790
+55,56,Scalpel-Si Race,Mountain - Cross Country Race - Carbon,9060
+56,57,Scalpel-Si Hi-Mod 1,Mountain - Cross Country Race - Carbon,7460
+57,58,Scalpel-Si Carbon 2,Mountain - Cross Country Race - Carbon,6390
+58,59,Scalpel-Si Carbon 3,Mountain - Cross Country Race - Carbon,5330
+59,60,Scalpel-Si Carbon 4,Mountain - Cross Country Race - Carbon,4260
+60,61,Scalpel-Si 5,Mountain - Cross Country Race - Aluminum,3200
+61,62,Scalpel 29 Carbon Race,Mountain - Cross Country Race - Carbon,6390
+62,63,Scalpel 29 Carbon 2,Mountain - Cross Country Race - Carbon,5330
+63,64,Scalpel 29 Carbon 3,Mountain - Cross Country Race - Carbon,4260
+64,65,Scalpel 29 4,Mountain - Cross Country Race - Aluminum,3200
+65,66,F-Si Black Inc.,Mountain - Cross Country Race - Carbon,11190
+66,67,F-Si Hi-Mod Team,Mountain - Cross Country Race - Carbon,9060
+67,68,F-Si Hi-Mod 1,Mountain - Cross Country Race - Carbon,6390
+68,69,F-Si Carbon 2,Mountain - Cross Country Race - Carbon,4800
+69,70,F-Si Carbon 4,Mountain - Cross Country Race - Carbon,2880
+70,71,F-Si 1,Mountain - Cross Country Race - Aluminum,2340
+71,72,F-Si 2,Mountain - Cross Country Race - Aluminum,2060
+72,73,F-Si 3,Mountain - Cross Country Race - Aluminum,1840
+73,74,Fat CAAD1,Mountain - Fat Bike - Aluminum,3730
+74,75,Fat CAAD2,Mountain - Fat Bike - Aluminum,2130
+75,76,Beast of the East 1,Mountain - Trail - Aluminum,2770
+76,77,Beast of the East 2,Mountain - Trail - Aluminum,2130
+77,78,Beast of the East 3,Mountain - Trail - Aluminum,1620
+78,79,Bad Habit 1,Mountain - Trail - Aluminum,3200
+79,80,Bad Habit 2,Mountain - Trail - Aluminum,2660
+80,81,Habit Hi-Mod Black Inc.,Mountain - Trail - Carbon,12250
+81,82,Habit Carbon 1,Mountain - Trail - Carbon,7460
+82,83,Habit Carbon 2,Mountain - Trail - Carbon,5330
+83,84,Habit Carbon SE,Mountain - Trail - Carbon,4480
+84,85,Habit Carbon 3,Mountain - Trail - Carbon,3730
+85,86,Habit 4,Mountain - Trail - Aluminum,2880
+86,87,Habit 5,Mountain - Trail - Aluminum,2340
+87,88,Habit 6,Mountain - Trail - Aluminum,1950
+88,89,Trail 1,Mountain - Sport - Aluminum,1520
+89,90,Trail 2,Mountain - Sport - Aluminum,1350
+90,91,Trail 3,Mountain - Sport - Aluminum,1080
+91,92,Trail 4,Mountain - Sport - Aluminum,980
+92,93,Trail 5,Mountain - Sport - Aluminum,815
+93,94,Catalyst 1,Mountain - Sport - Aluminum,705
+94,95,Catalyst 2,Mountain - Sport - Aluminum,585
+95,96,Catalyst 3,Mountain - Sport - Aluminum,480
+96,97,Catalyst 4,Mountain - Sport - Aluminum,415
